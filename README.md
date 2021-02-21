@@ -2,5 +2,5 @@
 - :fire: I’m interested in Web development
 - 🌱 I’m currently learning React and Rails
 - :lips: I speak: Japanese / English / German
-- :eyes: I’m looking for a job as a Working student in Front-/Backend
+- :eyes: I’m looking for a job as a Working student in Frontend
 - :e-mail: Feel free to reach me: taichi_tomioka@icloud.com
