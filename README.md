@@ -1,6 +1,6 @@
 - 👋 &emsp;Hi, I’m <a href="https://taichi-de.com/index-en.html" target="_blank">Taichi Tomioka</a>
 - :fire:&emsp; I’m interested in Web development
-- 🌱 &emsp;I’m currently learning React and Rails
+- 🌱 &emsp;I’m currently learning React / Redux / ReduxToolkit / Nextjs / Firebase
 - :lips:&emsp; I speak: Japanese / English / German
 - :eyes:&emsp;I’m looking for a job as a Working student in Frontend
 - :e-mail:&emsp;Feel free to reach me: taichi_tomioka@icloud.com
