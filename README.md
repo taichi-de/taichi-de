@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <a href="https://taizen-dev.com" target="_blank">Taichi Tomioka</a>
 - :fire: I’m interested in Web development
-- 🌱 I’m currently learning ReactJs / TypeScript / Firebase
+- 🌱 I’m currently learning React(Next.js) / TypeScript / python(flask)
 - :lips: I speak: Japanese / English / German
 - :e-mail: Feel free to reach me: taichi_tomioka[at]icloud.com
